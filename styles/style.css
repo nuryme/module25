@@ -1,0 +1,15 @@
+h1 {
+    color: crimson;
+}
+#fruits {
+    color: cadetblue;
+}
+.places {
+    color: blueviolet;
+}
+.fruits-section li {
+    color: gold;
+}
+.center {
+    text-align: center;
+}
